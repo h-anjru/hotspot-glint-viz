@@ -14,7 +14,7 @@ The user is prompted in the terminal for input on sun azimuth and elevation (sep
 ```sh
 $ [path to Anaconda python] hotspot_glint_viz.py 
 Sun: azimuth and elevation [deg]: 225 65
-Image: omega phi kappa [deg]: 4 7 8
+Image: omega phi kappa [deg]: 4 7 9
 ```
 
 ![Example of a 3D plot output by the hotspot and glint visualizer script.](example_plot.png)
